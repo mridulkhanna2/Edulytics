@@ -152,7 +152,7 @@ It provides anonymized academic and lifestyle data for students, including score
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Mridul Khanna**  
 540875559
 Master’s in Computer Science
@@ -160,7 +160,7 @@ University of Sydney
 
 ---
 
-## 🧭 Acknowledgments
+## Acknowledgments
 - Project developed as part of *Intro to Programming* coursework  
 - Dataset adapted for educational use and testing  
 - Special thanks to mentors and peers for feedback and collaboration  
