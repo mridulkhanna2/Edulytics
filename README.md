@@ -1,4 +1,4 @@
-# Edulytics+
+# Edulytics
 
 ### Transforming academic data into meaningful insights
 
@@ -80,7 +80,7 @@ Provides individual-level feedback on wellness and academic balance.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Edulytics/
@@ -96,7 +96,7 @@ Edulytics/
 
 ---
 
-## 🧮 Example Dataset Columns
+## Example Dataset Columns
 
 | Column | Description |
 |---------|-------------|
@@ -114,26 +114,26 @@ Edulytics/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/mridulkhanna2/Edulytics.git
 ```
 
-### 2️⃣ Navigate to the project folder
+### 2. Navigate to the project folder
 ```bash
 cd Edulytics
 ```
 
-### 3️⃣ Run the program
+### 3. Run the program
 ```bash
 python edulytics.py
 ```
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 - Integrate **machine learning models** for performance prediction  
 - Add **Plotly/Dash dashboards** for interactive visualization  
 - Enable **teacher vs student view modes**  
@@ -143,7 +143,7 @@ python edulytics.py
 ---
 
 
-## 📊 Dataset Reference
+## Dataset Reference
 
 This project uses the **Students Grading Dataset** available on Kaggle, created by Mahmoud El Hemaly.  
 It provides anonymized academic and lifestyle data for students, including scores, attendance, study habits, and stress levels — ideal for analyzing performance and wellness correlations.  
