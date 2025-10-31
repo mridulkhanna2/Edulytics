@@ -146,7 +146,7 @@ python edulytics.py
 ## Dataset Reference
 
 This project uses the **Students Grading Dataset** available on Kaggle, created by Mahmoud El Hemaly.  
-It provides anonymized academic and lifestyle data for students, including scores, attendance, study habits, and stress levels — ideal for analyzing performance and wellness correlations.  
+It provides anonymized academic and lifestyle data for students, including scores, attendance, study habits, and stress levels - ideal for analyzing performance and wellness correlations.  
 
 🔗 [Kaggle Dataset – Students Grading Dataset](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset)
 
