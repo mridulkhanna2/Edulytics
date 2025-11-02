@@ -1,0 +1,7 @@
+Study Impact correlation: -0.01 | Quality of study may matter more than quantity.!! QUALITY >>> QUANTITY
+           Avg Study  Avg Sleep  Avg Stress
+Top 10         17.80       7.02         6.1
+Bottom 10      17.46       6.32         5.3
+Strong correlation: Study_Hours_per_Week-Wellness_Index: 0.75
+Stress vs Score correlation: 0.01 → No strong relationship detected.
+Study Impact correlation: -0.01 | Quality of study may matter more than quantity.!! QUALITY >>> QUANTITY
